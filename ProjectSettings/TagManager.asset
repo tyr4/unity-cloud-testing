@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Gold
   - PickupRadius
+  - Enemy
   layers:
   - Default
   - TransparentFX

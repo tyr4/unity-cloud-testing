@@ -1,30 +1,37 @@
-using System;
+using Unity.Mathematics;
 using UnityEngine;
 
 public class NearestEnemy : MonoBehaviour
 {
-    
     private BoxCollider2D _box;
-    private GameObject _enemy;
-    private Vector3 _minPos;
+    private float _minPos = Mathf.Infinity;
+    private Vector2 _minPosVector;
 
     private void Start()
     {
         _box= GameObject.Find("Player/Radius Objects/Nearest Enemy Radius").GetComponent<BoxCollider2D>();
     }
 
-    public void FindNearestEnemy()
+    public Vector2 FindNearestEnemy(Transform player)
     {
+        // init values each call
+        _minPos = Mathf.Infinity;
+        
         Collider2D[] colliders = Physics2D.OverlapBoxAll(_box.bounds.center, _box.bounds.size, 0);
-        Debug.Log(colliders.Length);
         foreach (Collider2D obj in colliders)
         {
-            if (obj.gameObject)
+            if (obj.gameObject.CompareTag("Enemy"))
             {
-                // if (obj.gameObject.layer == "Weapon"))
+                Vector2 direction = obj.transform.position - player.position;
+                float distance = direction.sqrMagnitude;
+                if (_minPos > distance)
+                {
+                    _minPos = distance;
+                    _minPosVector = direction;
+                }
             }
         }
-        
-        // return gameObject;
+        Debug.Log(_minPosVector);
+        return _minPosVector;
     }
 }

@@ -1,5 +1,3 @@
-using System;
-using UnityEditor.Build.Content;
 using UnityEngine;
 
 public class GaeBolgHandler : MonoBehaviour
@@ -18,10 +16,9 @@ public class GaeBolgHandler : MonoBehaviour
 
     private void Update()
     {
-        nearestEnemy.FindNearestEnemy();
         if (Input.GetMouseButtonDown(0))
         {
-            LaunchProjectile();
+            // LaunchProjectile();
         }
     }
 
@@ -32,8 +29,10 @@ public class GaeBolgHandler : MonoBehaviour
         mousePos.z = 0;
         
         // set the projectile direction/rotation/whatever
-        Vector2 direction = (mousePos - transform.root.position - _projPositionOffset).normalized;
+        // Vector2 direction = (mousePos - transform.root.position - _projPositionOffset).normalized;
+        Vector2 direction = nearestEnemy.FindNearestEnemy(transform.root).normalized;
         GameObject projectile = Instantiate(projPrefab, transform.root.position + _projPositionOffset, Quaternion.identity);
+        
         projectile.layer = LayerMask.NameToLayer("Weapon");
         projectile.transform.localRotation = Quaternion.Euler(0, 0, Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg + projAngleOffset);
         
