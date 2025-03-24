@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: d8b8a896de9f4f347bd6bd6da6f9ab91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8846392132398012260
+    second: cursed_zeus_surge_5_0
+  - first:
+      213: -2735821164687266130
+    second: cursed_zeus_surge_5_1
+  - first:
+      213: -3422151115199259877
+    second: cursed_zeus_surge_5_2
+  - first:
+      213: 3738814326248249659
+    second: cursed_zeus_surge_5_3
+  - first:
+      213: 3111454485045877788
+    second: cursed_zeus_surge_5_4
+  - first:
+      213: 4355888259627738816
+    second: cursed_zeus_surge_5_5
+  - first:
+      213: 6809889487324683155
+    second: cursed_zeus_surge_5_6
+  - first:
+      213: -671639931639038547
+    second: cursed_zeus_surge_5_7
+  - first:
+      213: -5985973448859087158
+    second: cursed_zeus_surge_5_8
+  - first:
+      213: 5269605923538956414
+    second: cursed_zeus_surge_5_9
+  - first:
+      213: 8362961475155814766
+    second: cursed_zeus_surge_5_10
+  - first:
+      213: 5570031053671187518
+    second: cursed_zeus_surge_5_11
+  - first:
+      213: -292016633913795995
+    second: cursed_zeus_surge_5_12
+  - first:
+      213: 6245429218743726727
+    second: cursed_zeus_surge_5_13
+  - first:
+      213: 7603693360511633157
+    second: cursed_zeus_surge_5_14
+  - first:
+      213: -1779528192262975137
+    second: cursed_zeus_surge_5_15
+  - first:
+      213: 2889999906902322950
+    second: cursed_zeus_surge_5_16
+  - first:
+      213: 4503691926429594233
+    second: cursed_zeus_surge_5_17
+  - first:
+      213: 7791700890240609378
+    second: cursed_zeus_surge_5_18
+  - first:
+      213: -3689010263654952228
+    second: cursed_zeus_surge_5_19
+  - first:
+      213: -4858220780347736237
+    second: cursed_zeus_surge_5_20
+  - first:
+      213: -3195990115175239221
+    second: cursed_zeus_surge_5_21
+  - first:
+      213: -9183931668004359350
+    second: cursed_zeus_surge_5_22
+  - first:
+      213: 1314822862620546103
+    second: cursed_zeus_surge_5_23
+  - first:
+      213: -7741646885232958838
+    second: cursed_zeus_surge_5_24
+  - first:
+      213: 8339650078204867326
+    second: cursed_zeus_surge_5_25
+  - first:
+      213: 4258887228642167390
+    second: cursed_zeus_surge_5_26
+  - first:
+      213: -5730598986367809566
+    second: cursed_zeus_surge_5_27
+  - first:
+      213: -3170782448212837331
+    second: cursed_zeus_surge_5_28
+  - first:
+      213: -555875074897369640
+    second: cursed_zeus_surge_5_29
+  - first:
+      213: 8470697247119854970
+    second: cursed_zeus_surge_5_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 519
+        width: 102
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c982b9cc93d4b3580800000000000000
+      internalID: -8846392132398012260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 679
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaee1dd4529680ad0800000000000000
+      internalID: -2735821164687266130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_2
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 619
+        width: 72
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b57da21b31280d0800000000000000
+      internalID: -3422151115199259877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 589
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b391b2512dfe2e330800000000000000
+      internalID: 3738814326248249659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 509
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c94f37e5b1e2b20800000000000000
+      internalID: 3111454485045877788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 499
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6e76c2b49337c30800000000000000
+      internalID: 4355888259627738816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_6
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 549
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b97ab8866918e50800000000000000
+      internalID: 6809889487324683155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_7
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 479
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadffa96a0bdda6f0800000000000000
+      internalID: -671639931639038547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_8
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 459
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace85d10ddc8deca0800000000000000
+      internalID: -5985973448859087158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 309
+        width: 112
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7075dafaa6612940800000000000000
+      internalID: 5269605923538956414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 429
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6960fc17253f0470800000000000000
+      internalID: 8362961475155814766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 389
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3447f56bb9bc4d40800000000000000
+      internalID: 5570031053671187518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 379
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a101b2b6c82fbf0800000000000000
+      internalID: -292016633913795995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 349
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782b015e8c83ca650800000000000000
+      internalID: 6245429218743726727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_14
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 319
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507ca4643deb58960800000000000000
+      internalID: 7603693360511633157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 359
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f515f589988dd47e0800000000000000
+      internalID: -1779528192262975137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 369
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f23db7a975b1820800000000000000
+      internalID: 2889999906902322950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_17
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 349
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97271ac02f3508e30800000000000000
+      internalID: 4503691926429594233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 279
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ce2ee6daea12c60800000000000000
+      internalID: 7791700890240609378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_19
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 269
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2931ed5b00eccc0800000000000000
+      internalID: -3689010263654952228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 299
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fb3f2b0f1249cb0800000000000000
+      internalID: -4858220780347736237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 129
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1f15f5cef85a3d0800000000000000
+      internalID: -3195990115175239221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_22
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 179
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43b3277ece1c8080800000000000000
+      internalID: -9183931668004359350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_23
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 179
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7345f056d603f3210800000000000000
+      internalID: 1314822862620546103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_24
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 79
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a822e25cc25209490800000000000000
+      internalID: -7741646885232958838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 69
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2b57e8f836cb370800000000000000
+      internalID: 8339650078204867326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a0aa1be5b9a1b30800000000000000
+      internalID: 4258887228642167390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_27
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7455b7592d870b0800000000000000
+      internalID: -5730598986367809566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_28
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cfa32b92e1ff3d0800000000000000
+      internalID: -3170782448212837331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_29
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5af3580922948f0800000000000000
+      internalID: -555875074897369640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursed_zeus_surge_5_30
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 132
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d457e3446fd8570800000000000000
+      internalID: 8470697247119854970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

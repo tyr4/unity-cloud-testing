@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: 6b9af8c64a5ba8d45bf658f2f464a1e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5590027928406177074
+    second: fallen_angel_48_0
+  - first:
+      213: 8486440661194188798
+    second: fallen_angel_48_1
+  - first:
+      213: 790113719197764030
+    second: fallen_angel_48_2
+  - first:
+      213: 2741313900554696876
+    second: fallen_angel_48_3
+  - first:
+      213: 8094069810297016922
+    second: fallen_angel_48_4
+  - first:
+      213: -1397300597449730481
+    second: fallen_angel_48_5
+  - first:
+      213: -2811697715394689159
+    second: fallen_angel_48_6
+  - first:
+      213: -7266706309171287750
+    second: fallen_angel_48_7
+  - first:
+      213: 8863520140936815021
+    second: fallen_angel_48_8
+  - first:
+      213: -5224652114670378339
+    second: fallen_angel_48_9
+  - first:
+      213: 1300049928928134754
+    second: fallen_angel_48_10
+  - first:
+      213: -8171764659918949960
+    second: fallen_angel_48_11
+  - first:
+      213: -5277796537494372086
+    second: fallen_angel_48_12
+  - first:
+      213: 4221448557570101926
+    second: fallen_angel_48_13
+  - first:
+      213: 2249418154395661897
+    second: fallen_angel_48_14
+  - first:
+      213: -1921684563515476535
+    second: fallen_angel_48_15
+  - first:
+      213: -3110314931988551714
+    second: fallen_angel_48_16
+  - first:
+      213: 6703943640627653110
+    second: fallen_angel_48_17
+  - first:
+      213: -3181662985782706864
+    second: fallen_angel_48_18
+  - first:
+      213: -2179778202906775914
+    second: fallen_angel_48_19
+  - first:
+      213: 5842800149439559358
+    second: fallen_angel_48_20
+  - first:
+      213: 8869028918150943740
+    second: fallen_angel_48_21
+  - first:
+      213: 1718154881220898460
+    second: fallen_angel_48_22
+  - first:
+      213: -7263855959454333801
+    second: fallen_angel_48_23
+  - first:
+      213: -8462216254746431115
+    second: fallen_angel_48_24
+  - first:
+      213: 4830582381237578159
+    second: fallen_angel_48_25
+  - first:
+      213: 5008549444799695008
+    second: fallen_angel_48_26
+  - first:
+      213: -2162186442252605641
+    second: fallen_angel_48_27
+  - first:
+      213: -3307634261732849979
+    second: fallen_angel_48_28
+  - first:
+      213: 6808733141486746019
+    second: fallen_angel_48_29
+  - first:
+      213: 6089005313245868467
+    second: fallen_angel_48_30
+  - first:
+      213: -742028373343106328
+    second: fallen_angel_48_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fallen_angel_48_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 589
+        width: 12
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235b92d98c4c39d40800000000000000
+      internalID: 5590027928406177074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 589
+        width: 22
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef729e971d4e5c570800000000000000
+      internalID: 8486440661194188798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 569
+        width: 22
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb902fccd3c07fa00800000000000000
+      internalID: 790113719197764030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 509
+        width: 12
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8376ce77a1b0620800000000000000
+      internalID: 2741313900554696876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 329
+        width: 22
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5297f5bb99e35070800000000000000
+      internalID: 8094069810297016922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 429
+        width: 32
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f465194828acb9ce0800000000000000
+      internalID: -1397300597449730481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 639
+        width: 12
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9774f1a23d7daf8d0800000000000000
+      internalID: -2811697715394689159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 329
+        width: 12
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3961cacc19772b90800000000000000
+      internalID: -7266706309171287750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 279
+        width: 32
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da12f047b9c810b70800000000000000
+      internalID: 8863520140936815021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_9
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 249
+        width: 22
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d922416459e4e77b0800000000000000
+      internalID: -5224652114670378339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 39
+        width: 22
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266880cb584ba0210800000000000000
+      internalID: 1300049928928134754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 59
+        width: 22
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1b071765f089e80800000000000000
+      internalID: -8171764659918949960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 19
+        width: 42
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a018cd9130081c6b0800000000000000
+      internalID: -5277796537494372086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_13
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 289
+        width: 22
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a21d8fc819959a30800000000000000
+      internalID: 4221448557570101926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_14
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 329
+        width: 32
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946711cb4e9873f10800000000000000
+      internalID: 2249418154395661897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_15
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 409
+        width: 12
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5fe4d221ec455e0800000000000000
+      internalID: -1921684563515476535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_16
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 429
+        width: 12
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7aa3b6c01f5d4d0800000000000000
+      internalID: -3110314931988551714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_17
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 419
+        width: 22
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9a9ddd831390d50800000000000000
+      internalID: 6703943640627653110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_18
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 429
+        width: 12
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05db9612f5678d3d0800000000000000
+      internalID: -3181662985782706864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_19
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 439
+        width: 12
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e2a9ef54fdfb1e0800000000000000
+      internalID: -2179778202906775914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_20
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 509
+        width: 12
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6b1f887cbc51150800000000000000
+      internalID: 5842800149439559358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_21
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 559
+        width: 22
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3dd099fce151b70800000000000000
+      internalID: 8869028918150943740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_22
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 569
+        width: 12
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e6644e2cc18d710800000000000000
+      internalID: 1718154881220898460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_23
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 599
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794ce1d8d79913b90800000000000000
+      internalID: -7263855959454333801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 509
+        width: 12
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5717d4ba62b209a80800000000000000
+      internalID: -8462216254746431115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 409
+        width: 12
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa92deb051da90340800000000000000
+      internalID: 4830582381237578159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_26
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 509
+        width: 22
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a804410f21f18540800000000000000
+      internalID: 5008549444799695008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_27
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 109
+        width: 22
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7372e53f2ee5ef1e0800000000000000
+      internalID: -2162186442252605641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_28
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 489
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6808ed92ce812d0800000000000000
+      internalID: -3307634261732849979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_29
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 209
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a93fbcc7ba7d7e50800000000000000
+      internalID: 6808733141486746019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_30
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 189
+        width: 12
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b17c7b421e708450800000000000000
+      internalID: 6089005313245868467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_angel_48_31
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea8f993029c3b5f0800000000000000
+      internalID: -742028373343106328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

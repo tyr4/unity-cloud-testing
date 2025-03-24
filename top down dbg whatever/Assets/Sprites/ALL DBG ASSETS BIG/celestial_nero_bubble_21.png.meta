@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: d9699b7044a440c488f30497f121d957
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2089837162877545511
+    second: celestial_nero_bubble_21_0
+  - first:
+      213: -3238032366659204189
+    second: celestial_nero_bubble_21_1
+  - first:
+      213: 88675734347934989
+    second: celestial_nero_bubble_21_2
+  - first:
+      213: -4719249489328132506
+    second: celestial_nero_bubble_21_3
+  - first:
+      213: 2099627447829653606
+    second: celestial_nero_bubble_21_4
+  - first:
+      213: 7333955697588040765
+    second: celestial_nero_bubble_21_5
+  - first:
+      213: -5971230482292667477
+    second: celestial_nero_bubble_21_6
+  - first:
+      213: 8534599977620196183
+    second: celestial_nero_bubble_21_7
+  - first:
+      213: 7933750803971925625
+    second: celestial_nero_bubble_21_8
+  - first:
+      213: 2095696556640345931
+    second: celestial_nero_bubble_21_9
+  - first:
+      213: 2762485488028398649
+    second: celestial_nero_bubble_21_10
+  - first:
+      213: -4678710045416833338
+    second: celestial_nero_bubble_21_11
+  - first:
+      213: -7316081259833571598
+    second: celestial_nero_bubble_21_12
+  - first:
+      213: -1931135937822011207
+    second: celestial_nero_bubble_21_13
+  - first:
+      213: 5161654740397782356
+    second: celestial_nero_bubble_21_14
+  - first:
+      213: -4057621278369366519
+    second: celestial_nero_bubble_21_15
+  - first:
+      213: 7401293364477129614
+    second: celestial_nero_bubble_21_16
+  - first:
+      213: 2558692531485107071
+    second: celestial_nero_bubble_21_17
+  - first:
+      213: 6288841678063640099
+    second: celestial_nero_bubble_21_18
+  - first:
+      213: -3174513419295764575
+    second: celestial_nero_bubble_21_19
+  - first:
+      213: -943632905798100586
+    second: celestial_nero_bubble_21_20
+  - first:
+      213: 3547031174558434152
+    second: celestial_nero_bubble_21_21
+  - first:
+      213: -1235952742961795283
+    second: celestial_nero_bubble_21_22
+  - first:
+      213: -2029208681513976818
+    second: celestial_nero_bubble_21_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 909
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ce9b3c3d7900d10800000000000000
+      internalID: 2089837162877545511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_1
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 909
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab8f06e7b23013d0800000000000000
+      internalID: -3238032366659204189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 869
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d610e4c1a0b3100800000000000000
+      internalID: 88675734347934989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_3
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 869
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e2726d79bd18eb0800000000000000
+      internalID: -4719249489328132506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 849
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668eb8c1a00632d10800000000000000
+      internalID: 2099627447829653606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_5
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 849
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34ff2999d177c560800000000000000
+      internalID: 7333955697588040765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 799
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab06f6638de12da0800000000000000
+      internalID: -5971230482292667477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_7
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 799
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bcb1e167df07670800000000000000
+      internalID: 8534599977620196183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 779
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976673742585a1e60800000000000000
+      internalID: 7933750803971925625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_9
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 779
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f9e8f2ae8651d10800000000000000
+      internalID: 2095696556640345931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 759
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934ba134ae1565620800000000000000
+      internalID: 2762485488028398649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 759
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceb0e7a002e11fb0800000000000000
+      internalID: -4678710045416833338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_12
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 189
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f64abf3bde087a90800000000000000
+      internalID: -7316081259833571598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_13
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 189
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0d02d981a3335e0800000000000000
+      internalID: -1931135937822011207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 169
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455fe9683a1e1a740800000000000000
+      internalID: 5161654740397782356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_15
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 169
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e3abd02fe60b7c0800000000000000
+      internalID: -4057621278369366519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e837d1ce91da6b660800000000000000
+      internalID: 7401293364477129614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f736d940d4d428320800000000000000
+      internalID: 2558692531485107071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e97adbf24764750800000000000000
+      internalID: 6288841678063640099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_19
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 99
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af4a2c4ddcd1f3d0800000000000000
+      internalID: -3174513419295764575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699d88b2fda87e2f0800000000000000
+      internalID: -943632905798100586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_21
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863cace6f06993130800000000000000
+      internalID: 3547031174558434152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fa794578309dee0800000000000000
+      internalID: -1235952742961795283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celestial_nero_bubble_21_23
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 19
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c7833947dc6d3e0800000000000000
+      internalID: -2029208681513976818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

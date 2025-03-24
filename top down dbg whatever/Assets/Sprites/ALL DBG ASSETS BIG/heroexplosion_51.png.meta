@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: ebd7ffa772fb43e4b8a8c3056fce5434
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5526571382413590020
+    second: heroexplosion_51_0
+  - first:
+      213: 4542104988954623081
+    second: heroexplosion_51_1
+  - first:
+      213: 1321277257531289742
+    second: heroexplosion_51_2
+  - first:
+      213: 7974768451472075782
+    second: heroexplosion_51_3
+  - first:
+      213: 6080978693767877678
+    second: heroexplosion_51_4
+  - first:
+      213: 8456570616705350657
+    second: heroexplosion_51_5
+  - first:
+      213: 8273366675631192885
+    second: heroexplosion_51_6
+  - first:
+      213: 4616353218758262477
+    second: heroexplosion_51_7
+  - first:
+      213: 7076861927821787509
+    second: heroexplosion_51_8
+  - first:
+      213: 2579140428572274997
+    second: heroexplosion_51_9
+  - first:
+      213: 8511076146121203146
+    second: heroexplosion_51_10
+  - first:
+      213: -6392292042664788928
+    second: heroexplosion_51_11
+  - first:
+      213: -1472818053130648901
+    second: heroexplosion_51_12
+  - first:
+      213: 5454720617653350680
+    second: heroexplosion_51_13
+  - first:
+      213: -6569280120524787046
+    second: heroexplosion_51_14
+  - first:
+      213: -6947028059334510751
+    second: heroexplosion_51_15
+  - first:
+      213: 4940559226028334194
+    second: heroexplosion_51_16
+  - first:
+      213: -4450242590546765949
+    second: heroexplosion_51_17
+  - first:
+      213: 8373320573647486987
+    second: heroexplosion_51_18
+  - first:
+      213: -4235343661339578894
+    second: heroexplosion_51_19
+  - first:
+      213: 8388688668673409477
+    second: heroexplosion_51_20
+  - first:
+      213: 329469982228791328
+    second: heroexplosion_51_21
+  - first:
+      213: -3138141396051064526
+    second: heroexplosion_51_22
+  - first:
+      213: 3768775793977292475
+    second: heroexplosion_51_23
+  - first:
+      213: -4529905920503971192
+    second: heroexplosion_51_24
+  - first:
+      213: -6353992778427391481
+    second: heroexplosion_51_25
+  - first:
+      213: 2669151121750308919
+    second: heroexplosion_51_26
+  - first:
+      213: -2436739644084733472
+    second: heroexplosion_51_27
+  - first:
+      213: 7982542258746872152
+    second: heroexplosion_51_28
+  - first:
+      213: -802989824385659132
+    second: heroexplosion_51_29
+  - first:
+      213: 3597908524595769492
+    second: heroexplosion_51_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heroexplosion_51_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 679
+        width: 52
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ef99a246352bc40800000000000000
+      internalID: 5526571382413590020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 719
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c7b2f1c6cc80f30800000000000000
+      internalID: 4542104988954623081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 639
+        width: 62
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8074f05aae165210800000000000000
+      internalID: 1321277257531289742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 719
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c2cfb87a11cae60800000000000000
+      internalID: 7974768451472075782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_4
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 729
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24d0c057e9f36450800000000000000
+      internalID: 6080978693767877678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 619
+        width: 112
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c7abacb26cb5570800000000000000
+      internalID: 8456570616705350657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 679
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b3d854827e0d270800000000000000
+      internalID: 8273366675631192885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 659
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce31d14bc4901040800000000000000
+      internalID: 4616353218758262477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_8
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 629
+        width: 122
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571cd44bd60163260800000000000000
+      internalID: 7076861927821787509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 509
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53136ee0e82fac320800000000000000
+      internalID: 2579140428572274997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 579
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acddad949aa6d1670800000000000000
+      internalID: 8511076146121203146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_11
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 489
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cb86841440a47a0800000000000000
+      internalID: -6392292042664788928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 519
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb28d54b8cf7f8be0800000000000000
+      internalID: -1472818053130648901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 529
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8113a3c508f03bb40800000000000000
+      internalID: 5454720617653350680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 449
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92b512398a35d4a0800000000000000
+      internalID: -6569280120524787046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 309
+        width: 92
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167f1b679c2379f90800000000000000
+      internalID: -6947028059334510751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 299
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c923b9074609440800000000000000
+      internalID: 4940559226028334194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 349
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387552a31ff8d32c0800000000000000
+      internalID: -4450242590546765949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 239
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b008abea2b2043470800000000000000
+      internalID: 8373320573647486987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_19
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 259
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fde62c31690935c0800000000000000
+      internalID: -4235343661339578894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c18f9326eb9a6470800000000000000
+      internalID: 8388688668673409477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 129
+        width: 122
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020c6e60433829400800000000000000
+      internalID: 329469982228791328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_22
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 129
+        width: 132
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2398d61e6051374d0800000000000000
+      internalID: -3138141396051064526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_23
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 209
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb67b16ed916d4430800000000000000
+      internalID: 3768775793977292475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_24
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8820c66d09a8221c0800000000000000
+      internalID: -4529905920503971192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 119
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7022070ab3512d7a0800000000000000
+      internalID: -6353992778427391481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_26
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73833cfadcaba0520800000000000000
+      internalID: 2669151121750308919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 69
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9b7304436fe2ed0800000000000000
+      internalID: -2436739644084733472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 49
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851d62914efa7ce60800000000000000
+      internalID: 7982542258746872152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_29
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 89
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f4d3752053bd4f0800000000000000
+      internalID: -802989824385659132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heroexplosion_51_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 19
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49071e69db65ee130800000000000000
+      internalID: 3597908524595769492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

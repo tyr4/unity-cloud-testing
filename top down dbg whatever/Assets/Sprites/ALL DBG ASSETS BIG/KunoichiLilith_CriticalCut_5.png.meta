@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 441cb9fd85e60654aba608c7d471dcdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2037858656210504559
+    second: KunoichiLilith_CriticalCut_5_0
+  - first:
+      213: -7477477220978552425
+    second: KunoichiLilith_CriticalCut_5_1
+  - first:
+      213: 1663807929012395703
+    second: KunoichiLilith_CriticalCut_5_2
+  - first:
+      213: 817833995332031131
+    second: KunoichiLilith_CriticalCut_5_3
+  - first:
+      213: 4072029279437538061
+    second: KunoichiLilith_CriticalCut_5_4
+  - first:
+      213: -8312961616844994449
+    second: KunoichiLilith_CriticalCut_5_5
+  - first:
+      213: -2199468699110781068
+    second: KunoichiLilith_CriticalCut_5_6
+  - first:
+      213: 7176859055532690069
+    second: KunoichiLilith_CriticalCut_5_7
+  - first:
+      213: -4028411463829158560
+    second: KunoichiLilith_CriticalCut_5_8
+  - first:
+      213: -4842754953903853041
+    second: KunoichiLilith_CriticalCut_5_9
+  - first:
+      213: 908456368520544736
+    second: KunoichiLilith_CriticalCut_5_10
+  - first:
+      213: 8301221446187269433
+    second: KunoichiLilith_CriticalCut_5_11
+  - first:
+      213: 6687862500379969171
+    second: KunoichiLilith_CriticalCut_5_12
+  - first:
+      213: 6167656458814178138
+    second: KunoichiLilith_CriticalCut_5_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 609
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bc1e996ade74c10800000000000000
+      internalID: 2037858656210504559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 659
+        width: 162
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7919f7bb51aaa3890800000000000000
+      internalID: -7477477220978552425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 689
+        width: 92
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be13470f78071710800000000000000
+      internalID: 1663807929012395703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_3
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 719
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9211098fa7895b00800000000000000
+      internalID: 817833995332031131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 11
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d034ddb1e01c28830800000000000000
+      internalID: 4072029279437538061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 489
+        width: 162
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f684f74147d62ac80800000000000000
+      internalID: -8312961616844994449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_6
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 459
+        width: 221
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f49e61fdae971e0800000000000000
+      internalID: -2199468699110781068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 161
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a42105943599360800000000000000
+      internalID: 7176859055532690069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_8
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 379
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0650a59fd153818c0800000000000000
+      internalID: -4028411463829158560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 279
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f023c4607041bccb0800000000000000
+      internalID: -4842754953903853041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 149
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1cb93014c7b9c00800000000000000
+      internalID: 908456368520544736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_11
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 259
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93db8dd6cecd33370800000000000000
+      internalID: 8301221446187269433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_12
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 19
+        width: 142
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396cdc1a28f00dc50800000000000000
+      internalID: 6687862500379969171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KunoichiLilith_CriticalCut_5_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 139
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5343442fdae79550800000000000000
+      internalID: 6167656458814178138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

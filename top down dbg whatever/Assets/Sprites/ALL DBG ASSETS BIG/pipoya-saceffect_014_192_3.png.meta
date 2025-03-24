@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 9e822a7d875008741b317a35f63b266b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1984894671046251173
+    second: pipoya-saceffect_014_192_3_0
+  - first:
+      213: 5726340000944368970
+    second: pipoya-saceffect_014_192_3_1
+  - first:
+      213: 6661764927731505985
+    second: pipoya-saceffect_014_192_3_2
+  - first:
+      213: 3087379634307921266
+    second: pipoya-saceffect_014_192_3_3
+  - first:
+      213: -5663171024098313800
+    second: pipoya-saceffect_014_192_3_4
+  - first:
+      213: 7047336180729836643
+    second: pipoya-saceffect_014_192_3_5
+  - first:
+      213: -5524814104688689876
+    second: pipoya-saceffect_014_192_3_6
+  - first:
+      213: -4309747936319401607
+    second: pipoya-saceffect_014_192_3_7
+  - first:
+      213: 7260897838034956919
+    second: pipoya-saceffect_014_192_3_8
+  - first:
+      213: 5665505784893741168
+    second: pipoya-saceffect_014_192_3_9
+  - first:
+      213: -1032700218148567406
+    second: pipoya-saceffect_014_192_3_10
+  - first:
+      213: -1188880116393545336
+    second: pipoya-saceffect_014_192_3_11
+  - first:
+      213: 3145035772048244361
+    second: pipoya-saceffect_014_192_3_12
+  - first:
+      213: -6656288341520012846
+    second: pipoya-saceffect_014_192_3_13
+  - first:
+      213: 6172958900547200735
+    second: pipoya-saceffect_014_192_3_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 799
+        width: 462
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a21748df23cb8b10800000000000000
+      internalID: 1984894671046251173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 879
+        width: 302
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d266334eb087f40800000000000000
+      internalID: 5726340000944368970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 859
+        width: 432
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b979ef7e7537c50800000000000000
+      internalID: 6661764927731505985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_3
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 749
+        width: 662
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275f2b57b6398da20800000000000000
+      internalID: 3087379634307921266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1029
+        width: 202
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9b55655ff5861b0800000000000000
+      internalID: -5663171024098313800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_5
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1019
+        width: 162
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364f8210bea2dc160800000000000000
+      internalID: 7047336180729836643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 739
+        width: 512
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d76ffe7dae353b0800000000000000
+      internalID: -5524814104688689876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 479
+        width: 502
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97195300613b034c0800000000000000
+      internalID: -4309747936319401607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 249
+        width: 542
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772b9722d14e3c460800000000000000
+      internalID: 7260897838034956919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 169
+        width: 302
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07813858e7bef9e40800000000000000
+      internalID: 5665505784893741168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 129
+        width: 122
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29649c18f9c1ba1f0800000000000000
+      internalID: -1032700218148567406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 189
+        width: 282
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88176d545df308fe0800000000000000
+      internalID: -1188880116393545336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_12
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 79
+        width: 182
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ef4de1f5965ab20800000000000000
+      internalID: 3145035772048244361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_13
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 279
+        width: 582
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d92029150d10a3a0800000000000000
+      internalID: -6656288341520012846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipoya-saceffect_014_192_3_14
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 19
+        width: 62
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6a3301a61caa550800000000000000
+      internalID: 6172958900547200735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 8e088b9cf9d3e9b4d879398ee9dcb8d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2569925030488188395
+    second: zeus_surge_5_0
+  - first:
+      213: -7115298216316932810
+    second: zeus_surge_5_1
+  - first:
+      213: 7930832384407816374
+    second: zeus_surge_5_2
+  - first:
+      213: -3946299767755182559
+    second: zeus_surge_5_3
+  - first:
+      213: 2483687721878914018
+    second: zeus_surge_5_4
+  - first:
+      213: -9049418694095427081
+    second: zeus_surge_5_5
+  - first:
+      213: 8917255058572229635
+    second: zeus_surge_5_6
+  - first:
+      213: 5012219739658059149
+    second: zeus_surge_5_7
+  - first:
+      213: -6959482670873555183
+    second: zeus_surge_5_8
+  - first:
+      213: -3051095311724727930
+    second: zeus_surge_5_9
+  - first:
+      213: -2771453233425910007
+    second: zeus_surge_5_10
+  - first:
+      213: -3202726771177479204
+    second: zeus_surge_5_11
+  - first:
+      213: -1873281892605470574
+    second: zeus_surge_5_12
+  - first:
+      213: -3596445226483345002
+    second: zeus_surge_5_13
+  - first:
+      213: 3997980114070159438
+    second: zeus_surge_5_14
+  - first:
+      213: 1087974788148094066
+    second: zeus_surge_5_15
+  - first:
+      213: 3374665156572056087
+    second: zeus_surge_5_16
+  - first:
+      213: 8264603409413733061
+    second: zeus_surge_5_17
+  - first:
+      213: -3230238027157214390
+    second: zeus_surge_5_18
+  - first:
+      213: -5861914834976341118
+    second: zeus_surge_5_19
+  - first:
+      213: -5272185728159683437
+    second: zeus_surge_5_20
+  - first:
+      213: 1918704591431970013
+    second: zeus_surge_5_21
+  - first:
+      213: 2118356530457066391
+    second: zeus_surge_5_22
+  - first:
+      213: -1718511433311258839
+    second: zeus_surge_5_23
+  - first:
+      213: 3148965555801219128
+    second: zeus_surge_5_24
+  - first:
+      213: 4180903014443325933
+    second: zeus_surge_5_25
+  - first:
+      213: 2198046122361888785
+    second: zeus_surge_5_26
+  - first:
+      213: 9081140441797133139
+    second: zeus_surge_5_27
+  - first:
+      213: 3137791366520741047
+    second: zeus_surge_5_28
+  - first:
+      213: -7651189122054309366
+    second: zeus_surge_5_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zeus_surge_5_0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 539
+        width: 102
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51add520dcac55cd0800000000000000
+      internalID: -2569925030488188395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 709
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d657188f1614d90800000000000000
+      internalID: -7115298216316932810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_2
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 649
+        width: 82
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8cac5c80aff0e60800000000000000
+      internalID: 7930832384407816374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 619
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12eeeb5054deb39c0800000000000000
+      internalID: -3946299767755182559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 529
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3879be2d4d77220800000000000000
+      internalID: 2483687721878914018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 519
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9a9a2c4a10a6280800000000000000
+      internalID: -9049418694095427081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_6
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 569
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cb0c9ea3470cb70800000000000000
+      internalID: 8917255058572229635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 329
+        width: 122
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8df48e1c4bfe8540800000000000000
+      internalID: 5012219739658059149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 449
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f481e3263fa6f90800000000000000
+      internalID: -6959482670873555183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 499
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681b9c8baf458a5d0800000000000000
+      internalID: -3051095311724727930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 479
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9077a0ec7f1d989d0800000000000000
+      internalID: -2771453233425910007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 369
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3255b68f0ad83d0800000000000000
+      internalID: -3202726771177479204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 409
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29854133b04c006e0800000000000000
+      internalID: -1873281892605470574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_13
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 379
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6999f4d0f1cd61ec0800000000000000
+      internalID: -3596445226483345002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_14
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 389
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e404a364bbdab7730800000000000000
+      internalID: 3997980114070159438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 399
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274e5243e43491f00800000000000000
+      internalID: 1087974788148094066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_16
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 369
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a8d55841835de20800000000000000
+      internalID: 3374665156572056087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 289
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca769b5305c1b270800000000000000
+      internalID: 8264603409413733061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_18
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 279
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4be55bf0a3eb23d0800000000000000
+      internalID: -3230238027157214390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_19
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 309
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28384ade38b46aea0800000000000000
+      internalID: -5861914834976341118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 139
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c6823730f65d6b0800000000000000
+      internalID: -5272185728159683437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_21
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 189
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddca63109ab90aa10800000000000000
+      internalID: 1918704591431970013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_22
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 189
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bb5897a0ae56d10800000000000000
+      internalID: 2118356530457066391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 89
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927f80bd4fe9628e0800000000000000
+      internalID: -1718511433311258839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 79
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830e8733d7f53bb20800000000000000
+      internalID: 3148965555801219128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de91148e32d850a30800000000000000
+      internalID: 4180903014443325933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1102e437d47018e10800000000000000
+      internalID: 2198046122361888785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35380cc2e11b60e70800000000000000
+      internalID: 9081140441797133139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_28
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc91c48f9cab8b20800000000000000
+      internalID: 3137791366520741047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zeus_surge_5_29
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 142
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0abe9ef70481d590800000000000000
+      internalID: -7651189122054309366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

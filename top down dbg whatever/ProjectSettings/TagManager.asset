@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Gold
+  - PickupRadius
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - NormalEnemy
+  - FlyingEnemy
+  - 
+  - Player
+  - Gold
+  - Weapon
+  - PickupRadius
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NormalEnemy
+    uniqueID: 3817172303
+    locked: 0
+  - name: FlyingEnemy
+    uniqueID: 3402363109
+    locked: 0
+  - name: Gold
+    uniqueID: 763334033
+    locked: 0
+  - name: PickupRadius
+    uniqueID: 2840745855
+    locked: 0
+  m_RenderingLayers:
+  - Default
