@@ -1,5 +1,6 @@
 # Ignore the entire Library, Temp, and Logs folders
 Library/
+Assets/Sprites/
 Temp/
 Logs/
 Obj/
