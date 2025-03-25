@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
     [Header("Weapon Stats")]
     [SerializeField] public float gaeBolgDamage = 10f;
     [SerializeField] public float gaeBolgLaunchForce = 10f;
+    [SerializeField] public float gaeBolgShootingInterval = 2f;
 
     private void Awake()
     {

@@ -8,18 +8,20 @@ public class PlayerHandler : MonoBehaviour
 
     [Header("Player stats")]
     [SerializeField] private float moveSpeed = 5f;
-    [SerializeField] public float health;
-    
+
     [Header("Player animator")]
     [SerializeField] private Animator animator;
+
     [SerializeField] private HorizontalFlip horizontalFlip;
-    
+
     [Header("HP Bar")]
     [SerializeField] private HpBarHandler hpBar;
 
+
     // [Header("Weapons and effects")]
     // [SerializeField] private Weapon
-    
+
+    public float health;
     private Rigidbody2D _rb;
     private Vector2 _moveInput;
     private float _originalHealth;

@@ -49,7 +49,7 @@ public class NormalMobHandler : MonoBehaviour
     {
         _isDamaging = true;
 
-        while (_player != null) // Only damage while the player is still colliding
+        while (_player) // Only damage while the player is still colliding
         {
             _player.TakeDamage(damageValue);
             yield return new WaitForSeconds(GameManager.Instance.damageTickInterval);
@@ -64,7 +64,7 @@ public class NormalMobHandler : MonoBehaviour
         if (currentHealth <= 0)
         {
             goldHandler.SpawnGold(transform.position);
-            Destroy(gameObject);
+            gameObject.SetActive(false);
         }
     }
 }

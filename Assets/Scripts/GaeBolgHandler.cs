@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class GaeBolgHandler : MonoBehaviour
@@ -5,32 +6,21 @@ public class GaeBolgHandler : MonoBehaviour
     [SerializeField] private GameObject projPrefab;
     [SerializeField] private float projAngleOffset;
     [SerializeField] private NearestEnemy nearestEnemy;
-    
+    [SerializeField] private Vector2 directionOffset;
+
     private DespawnProj _despawnHandler;
     private readonly Vector3 _projPositionOffset = new (0, 1.25f, 0);
 
     private void Start()
     {
         nearestEnemy = transform.GetComponentInChildren<NearestEnemy>();
-    }
-
-    private void Update()
-    {
-        if (Input.GetMouseButtonDown(0))
-        {
-            // LaunchProjectile();
-        }
+        StartCoroutine(ShootEveryXSeconds());
     }
 
     private void LaunchProjectile()
     {
-        // initial coordinates
-        Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        mousePos.z = 0;
-        
         // set the projectile direction/rotation/whatever
-        // Vector2 direction = (mousePos - transform.root.position - _projPositionOffset).normalized;
-        Vector2 direction = nearestEnemy.FindNearestEnemy(transform.root).normalized;
+        Vector2 direction = nearestEnemy.FindNearestEnemy(transform.root).normalized + directionOffset;
         GameObject projectile = Instantiate(projPrefab, transform.root.position + _projPositionOffset, Quaternion.identity);
         
         projectile.layer = LayerMask.NameToLayer("Weapon");
@@ -59,5 +49,17 @@ public class GaeBolgHandler : MonoBehaviour
 
         Physics2D.IgnoreLayerCollision(projectileLayer, playerLayer, true);
         Physics2D.IgnoreLayerCollision(projectileLayer, projectileLayer, true);
+    }
+    
+    // shoot every x seconds
+    private IEnumerator ShootEveryXSeconds()
+    {
+        Debug.Log("am intrat fraiere");
+        if (GameObject.FindWithTag("Enemy"))
+        {
+            LaunchProjectile();
+        }
+        yield return new WaitForSeconds(GameManager.Instance.gaeBolgShootingInterval);
+        StartCoroutine(ShootEveryXSeconds());
     }
 }
