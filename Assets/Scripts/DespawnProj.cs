@@ -22,8 +22,8 @@ public class DespawnProj : MonoBehaviour
         if (projectile)
         {
             if (IsOutOfBounds(projectile.transform.position))
-            {
-                Destroy(projectile);
+            { 
+                ProjectilePool.Instance.ReturnProjectile(projectile);
             }
         }
     }

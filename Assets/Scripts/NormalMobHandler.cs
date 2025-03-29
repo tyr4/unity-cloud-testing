@@ -1,5 +1,5 @@
-using UnityEngine;
 using System.Collections;
+using UnityEngine;
 
 public class NormalMobHandler : MonoBehaviour
 {
@@ -13,14 +13,11 @@ public class NormalMobHandler : MonoBehaviour
     private bool _isDamaging;
     
     public float damageValue = 5f;
-    private float _maxHealth;
 
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
-        _maxHealth = currentHealth;
         playerTracker.SetSpeed(moveSpeed);
-        _maxHealth = currentHealth;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -64,7 +61,8 @@ public class NormalMobHandler : MonoBehaviour
         if (currentHealth <= 0)
         {
             goldHandler.SpawnGold(transform.position);
-            gameObject.SetActive(false);
+            Destroy(gameObject);
+            // gameObject.SetActive(false);
         }
     }
 }

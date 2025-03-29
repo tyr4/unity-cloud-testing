@@ -17,10 +17,6 @@ public class PlayerHandler : MonoBehaviour
     [Header("HP Bar")]
     [SerializeField] private HpBarHandler hpBar;
 
-
-    // [Header("Weapons and effects")]
-    // [SerializeField] private Weapon
-
     public float health;
     private Rigidbody2D _rb;
     private Vector2 _moveInput;

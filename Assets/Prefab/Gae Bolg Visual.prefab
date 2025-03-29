@@ -33,6 +33,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4011856831623240377}
+  - {fileID: 4910231704424379012}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -45.147}
 --- !u!212 &3675053484841431334
@@ -120,6 +121,7 @@ MonoBehaviour:
   projPrefab: {fileID: 7352392726289172341, guid: a761fb310c725ae47898cbca47a5cd86, type: 3}
   projAngleOffset: 220
   nearestEnemy: {fileID: 7881908480578427710}
+  directionOffset: {x: 0, y: 0}
 --- !u!1 &6617585886324234584
 GameObject:
   m_ObjectHideFlags: 0
@@ -164,3 +166,49 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30cece9bf7e9b4245851e0a65947273d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &8745247556679077726
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4910231704424379012}
+  - component: {fileID: 7625166601388919061}
+  m_Layer: 11
+  m_Name: Projectile Pool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4910231704424379012
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8745247556679077726}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1314100158153251700}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7625166601388919061
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8745247556679077726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c599de02dd904576b0020d951729af13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectilePrefabs:
+  - {fileID: 7352392726289172341, guid: a761fb310c725ae47898cbca47a5cd86, type: 3}

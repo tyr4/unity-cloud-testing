@@ -32,7 +32,7 @@ public class TrackPlayer : MonoBehaviour
         _rb.linearVelocity = directionToPlayer * _moveSpeed;
 
         // flip the asset for left/right directions
-        if (horizontalFlip != null)
+        if (horizontalFlip)
         {
             horizontalFlip.Flip(_previousX - _object.position.x, _object);
         }
