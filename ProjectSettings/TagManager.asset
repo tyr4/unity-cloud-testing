@@ -4,9 +4,7 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Gold
-  - PickupRadius
-  - Enemy
+  - OnTheGround
   layers:
   - Default
   - TransparentFX
@@ -17,13 +15,13 @@ TagManager:
   - 
   - 
   - 
-  - NormalEnemy
-  - FlyingEnemy
+  - 
+  - 
   - 
   - Player
-  - Gold
-  - Weapon
-  - PickupRadius
+  - On The Ground
+  - idk
+  - 
   - 
   - 
   - 
@@ -44,17 +42,8 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: NormalEnemy
-    uniqueID: 3817172303
-    locked: 0
-  - name: FlyingEnemy
-    uniqueID: 3402363109
-    locked: 0
-  - name: Gold
-    uniqueID: 763334033
-    locked: 0
-  - name: PickupRadius
-    uniqueID: 2840745855
+  - name: OnTheGround
+    uniqueID: 3894798733
     locked: 0
   m_RenderingLayers:
   - Default
