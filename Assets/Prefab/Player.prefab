@@ -79,6 +79,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4327663599067396207}
+  - {fileID: 598550437569412615}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &383861483925523937
@@ -142,17 +143,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.011004448, y: 0.108296394}
+  m_Offset: {x: 0.053736113, y: -0.13771515}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.73929507, y: 0.1661445}
-    oldSize: {x: 0.27, y: 0.35}
-    newSize: {x: 2.51, y: 3.42}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.27, y: 0.34}
+    newSize: {x: 0.27, y: 0.34}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.14788818, y: 0.33638382}
+  m_Size: {x: 0.115076765, y: 0.06462619}
   m_EdgeRadius: 0
 --- !u!95 &2166304989078102120
 Animator:
@@ -219,13 +220,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 10
-  m_Sprite: {fileID: -2433839441092944389, guid: 9c8752a225b9a2b459ab3fabbbb015e3, type: 3}
+  m_SortingOrder: 111
+  m_Sprite: {fileID: -2433839441092944389, guid: 3fa47c14ab02f984b93445bd12a7f25e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.51, y: 3.42}
+  m_Size: {x: 0.27, y: 0.34}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -247,3 +248,41 @@ MonoBehaviour:
   animator: {fileID: 2166304989078102120}
   horizontalFlip: {fileID: 7392643160150680390}
   health: 4.123123e+12
+  maxInventoryWeight: 0
+  perception: 0
+  luck: 0
+  charisma: 0
+  strength: 0
+  stealth: 0
+  endurance: 0
+--- !u!1 &8493704136818097891
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 598550437569412615}
+  m_Layer: 12
+  m_Name: Inventory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &598550437569412615
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8493704136818097891}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 954306530717741808}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

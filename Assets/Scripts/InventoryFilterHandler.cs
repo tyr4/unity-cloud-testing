@@ -2,9 +2,13 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using UnityEngine.UIElements;
-using Button = UnityEngine.UIElements.Button;
 
-public class InventoryFilterHandler : MonoBehaviour
+
+
+public class InventoryFilterHandler : MonoBehaviour, IButtonActionHandler
 {
-    
+    public void OnButtonClick(PointerEventData eventData)
+    {
+        Debug.Log(eventData.pointerEnter);
+    }
 }

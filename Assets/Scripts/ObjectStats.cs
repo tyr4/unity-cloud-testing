@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 public class ObjectStats : MonoBehaviour
 {
@@ -15,22 +16,28 @@ public class ObjectStats : MonoBehaviour
     [SerializeField] public int stealth;
     [SerializeField] public int endurance;
 
+    private Transform _inventory;
+
+    private void Start()
+    {
+        _inventory = GameObject.Find("Player/Inventory").transform;
+    }
+
     public void OnMouseDown()
     {
         Debug.Log("am intrat 2");
         PickupItem();
     }
-    
+
     public void PickupItem()
     {
         Debug.Log("am intrat fraiere");
         var player = GameObject.Find("Player").GetComponent<PlayerHandler>();
-        int inventoryLoad = player.GetInventoryLoad();
+        int _inventoryLoad = player.GetInventoryLoad();
         
-        if (inventoryLoad + weight < player.maxInventoryWeight)
+        if (_inventoryLoad + weight < player.maxInventoryWeight)
         {
-            var inventory = GameObject.Find("Player/Inventory").transform;
-            gameObject.transform.SetParent(inventory);
+            gameObject.transform.SetParent(_inventory);
             gameObject.SetActive(false);
         }
     }
